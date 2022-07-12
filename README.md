@@ -1,5 +1,5 @@
-# weather_app
-this is weather app using django framework..
+# news_web
+this is news app using django framework..
 
 ### To run this project 
 
@@ -9,7 +9,7 @@ this is weather app using django framework..
 2. now go to this folder by using 
       ```cd news_web```
       
-3. go inside folder called the_weather
+3. go inside folder called newsproject
      ```cd newsproject```
      
 4. now to create and run virtual environment run command 
