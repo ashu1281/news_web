@@ -30,5 +30,5 @@ this is news app using django framework..
 ![image](https://user-images.githubusercontent.com/98692616/178457538-fe3dd2d0-3ff0-4e16-a0be-156b6d66984a.png)
 ![image](https://user-images.githubusercontent.com/98692616/178457698-02ead0a2-bffa-4a7c-a9e8-987bdfe585b6.png)
 
-
+for any query connect to linkedin www.linkedin.com/in/ashishggaikwad
 
